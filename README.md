@@ -140,4 +140,5 @@ A few other notes:
 | Green front plate | €11.30 |
 | 3000mAh battery | €10.89 |
 | iFlash-Quad | €61.61 |
-| **Total** | **€190.00** |
+| Koss Porta Pro | €39,30|
+| **Total** | **€229.30** |
