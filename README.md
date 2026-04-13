@@ -143,7 +143,7 @@ A few other notes:
 
 ## Total Cost
 
-*(The CF to ZIF adapter and microSD to CF adapter are excluded — I resold them on Vinted.)*
+*(The CF to ZIF adapter and microSD to CF adapter are excluded, i resold them on Vinted.)*
 
 | Item | Cost (€) |
 |---|---|
