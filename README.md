@@ -120,12 +120,23 @@ After some research, I picked up a pair of **Koss Porta Pro** over-ear headphone
 
 ---
 
+## Formatting the iPod
+
+Before installing RockBox, the iPod needs to be formatted as FAT32, the only filesystem RockBox supports. This only needs to be done once, so I kept it simple and used Windows with iTunes installed, which is by far the easiest method. Other approaches exist but are significantly more complex.
+
+The full documentation is available here: [iPod Conversion to FAT32 — RockBox Wiki](https://www.rockbox.org/wiki/IpodConversionToFAT32)
+
+The process is straightforward: connect the iPod to a Windows machine with iTunes installed. If the iPod was previously formatted for Mac (HFS+), iTunes will detect it and prompt you to restore it. Accept, let it download the necessary firmware and reformat the drive, then eject. That's it, the iPod is now FAT32 and ready for RockBox.
+
+> [!NOTE]
+> Make sure to untick the automatic sync options when iTunes asks. You don't want it to start syncing a music library you haven't set up yet.
+
 ## Retrospective
 
 It's entirely possible to build a similar setup for less. The iFlash-Quad is the most expensive component and can be replaced with the CF to ZIF + microSD to CF adapter combo, paired with a smaller battery (the 1200mAh variant should fit safely).
 
 A few other notes:
-- I never ended up using the search function on the 5.5, so in hindsight that wasn't a deciding factor for me — though I still recommend the 80GB model for the RAM advantage.
+- I never ended up using the search function on the 5.5, so in hindsight that wasn't a deciding factor for me, though I still recommend the 80GB model for the RAM advantage.
 - Bluetooth mods are possible but require soldering. Pre-built Bluetooth back configurations exist but are expensive and, in my view, not worth it.
 
 ---
