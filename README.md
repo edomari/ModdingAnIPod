@@ -25,17 +25,18 @@ From there, a Reddit thread led me to a GitHub-hosted guide covering everything 
 
 After going through the guide, I settled on the **iPod Classic 5.5 (80GB)**. Here's the reasoning:
 
-**Why Classic over Nano, Touch, etc.?**
-The 5th and 5.5 generations are the most mod-friendly: they have a larger screen and accept bigger batteries than other models.
-
-**Why not 6th gen or later?**
-They're harder to open, have fewer moddable features, and have a worse design (imo).
-
-**Why 5.5 over 5?**
-The 5.5 adds a **search function** and a **brighter display**.
-
-**Why 80GB over 30GB?**
-The 80GB model comes with **64MB of RAM** vs. **32MB** on the 30GB. This makes a noticeable difference when navigating large music libraries.
+> [!IMPORTANT]
+> **Why Classic over Nano, Touch, etc.?**
+> The 5th and 5.5 generations are the most mod-friendly: they have a larger screen and accept bigger batteries than other models.
+> 
+> **Why not 6th gen or later?**
+> They're harder to open, have fewer moddable features, and have a worse design (imo).
+> 
+> **Why 5.5 over 5?**
+> The 5.5 adds a **search function** and a **brighter display**.
+> 
+> **Why 80GB over 30GB?**
+> The 80GB model comes with **64MB of RAM** vs. **32MB** on the 30GB. This makes a noticeable difference when navigating large music libraries.
 
 ---
 
